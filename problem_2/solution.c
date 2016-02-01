@@ -1,3 +1,7 @@
+/* 
+    Solution to Euler Problem 2 in C 
+*/
+
 #include <stdio.h>
  
 #define UPPER_LIMIT 4000000
