@@ -27,8 +27,7 @@ int main(int argc, char **argv) {
     }
  
     printf("Answer: %d \n", max_palindrome); // Answer: 906609 
- 
-    printf("%i\n", (1 % 10));
+    
     return 0;
 }
 
