@@ -4,7 +4,7 @@
     
 #include <stdio.h>
 
-int main(){
+int main(int argc, char **argv){
 
     int i,s=0; // s is the running sum of multiples of 3 and 5
 

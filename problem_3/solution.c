@@ -4,7 +4,7 @@
 
 #include <stdio.h>
 
-int main(void) {
+int main(int argc, char **argv) {
 
     long long n=600851475143,prime=0,i; // long long (64 bit int) is needed because 600851475143 requires at least 40 bits
 

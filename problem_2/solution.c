@@ -6,7 +6,7 @@
  
 #define UPPER_LIMIT 4000000 // defining a constant 
 
-int main(void) {
+int main(int argc, char **argv) {
 
     /*  x,y,z are place holders for the current fib number, fib(n-1) and fib(n-2)
         s is the running sum of even numbers */
