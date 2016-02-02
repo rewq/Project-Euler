@@ -18,7 +18,7 @@ int main(void) {
         y = z;
     }
  
-    printf("= %d\n", s);
+    printf("Answer: %d\n", s); // Answer: = 4613732
  
     return 0;
 }
