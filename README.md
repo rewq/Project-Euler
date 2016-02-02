@@ -4,5 +4,5 @@ This is a collection of my solutions to [Project Euler](https://projecteuler.net
 
 
 
-![dylanm progress](https://projecteuler.net/profile/dylanm.png)
+[https://projecteuler.net/profile/dylanm.png](https://projecteuler.net/profile/dylanm.png)
 
